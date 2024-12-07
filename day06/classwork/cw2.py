@@ -9,5 +9,3 @@ print("your name is " + name + "your age is " + str(age))
 num1 = "20"
 num2 = "10"
 print("score " +  str(int(num1) + int(num2)))
-
-

@@ -3,6 +3,3 @@
 num1 = "7"
 
 print(int(num1))
-
-
-

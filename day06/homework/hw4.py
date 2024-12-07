@@ -7,10 +7,3 @@ address=input("enter your address: ")
 gmail=input("enter your gmail: ")
 
 print("your name is " + name + " , your surname is " + surname + " , your age is " + " , your address is " + address + " , your gmail is " + gmail + " .")
-
-
-
-
-
-
-

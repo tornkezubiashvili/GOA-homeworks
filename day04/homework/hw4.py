@@ -4,4 +4,3 @@
 x=15 #int
 
 print(x + 5)
-

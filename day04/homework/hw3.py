@@ -3,5 +3,3 @@
 height=179.5 #float
 
 print(height)
-
-
