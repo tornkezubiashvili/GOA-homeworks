@@ -1,7 +1,7 @@
 import random
 
 
-numbers = list(range(1, 31))
+number = list(range(1, 31))
 
 
 selected_number = 24
