@@ -65,14 +65,4 @@ forward(50)
 right(90)
 forward(70)
 end_fill()
-
-
-
-
-
-
-
-
-
-
 exitonclick()
