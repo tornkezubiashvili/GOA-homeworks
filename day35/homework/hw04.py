@@ -1,7 +1,7 @@
 num1 = int(input("Enter numbers: "))
 num2 = int(input("Enter numbers: "))
 
-def min():
-    print(num1 - num2)
+def minus():
+    print("შედეგი: ", num1 - num2)
 
-min()    
+minus()    
