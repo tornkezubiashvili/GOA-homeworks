@@ -1,8 +1,6 @@
 def hello(name):
     print("გამარჯობა, " + name)
 
-
-user_name = input("გთხოვთ, შეიყვანოთ თქვენი სახელი: ")
-
+user_name = str(input("გთხოვთ, შეიყვანოთ თქვენი სახელი: "))
 
 hello(user_name)
