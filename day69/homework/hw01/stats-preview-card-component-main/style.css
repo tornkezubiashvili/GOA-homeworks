@@ -13,6 +13,7 @@ body{
     top: 200px;
     background-color: #1b1937;
     width: 1200px;
+    height: 445px;
 }    
 .div1{
     position: relative;
@@ -65,4 +66,15 @@ body{
 img{
     position: relative;
     left: 350px;
+    z-index: 2;
+}
+.backgrounda{
+    background-color: #a255cf;
+    width: 540px;
+    height: 446px;
+    z-index: 10;
+    position: relative;
+    bottom: 450px;
+    left: 350px;
+    opacity: 0.4;
 }
