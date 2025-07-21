@@ -16,7 +16,6 @@ body{
 }
 .main{
     width: 800px;
-    border: 1px solid red;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows:250px 75px 125px 200px ;
